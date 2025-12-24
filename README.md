@@ -1,4 +1,8 @@
-## Hi there 👋
+# 🛡️ 0xvoid00's Security Lab
+
+안녕하세요! 해킹 및 보안 쪽을 공부하며 작은 기록을 쌓아가는 공간입니다.
+
+시작은 미미할지 몰라도 방향을 잡고 하루하루 조금씩 앞으로 나아가면 언젠가는 멀리 나아가 있을거라 믿습니다.
 
 <!--
 **0xvoid00/0xvoid00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
