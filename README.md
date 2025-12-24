@@ -4,6 +4,8 @@
 
 시작은 미미할지 몰라도 방향을 잡고 하루하루 조금씩 앞으로 나아가면 언젠가는 멀리 나아가 있을거라 믿습니다.
 
+원래 개발 쪽으로 시작했던 지라 간간히 개발 관련해서도 올라올 예정입니다.
+
 <!--
 **0xvoid00/0xvoid00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
